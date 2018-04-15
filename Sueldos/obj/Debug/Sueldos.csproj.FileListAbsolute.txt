@@ -1,0 +1,7 @@
+C:\Users\Rafael Peguero\source\repos\Sueldos\Sueldos\bin\Debug\Sueldos.exe.config
+C:\Users\Rafael Peguero\source\repos\Sueldos\Sueldos\bin\Debug\Sueldos.exe
+C:\Users\Rafael Peguero\source\repos\Sueldos\Sueldos\bin\Debug\Sueldos.pdb
+C:\Users\Rafael Peguero\source\repos\Sueldos\Sueldos\obj\Debug\Sueldos.csprojResolveAssemblyReference.cache
+C:\Users\Rafael Peguero\source\repos\Sueldos\Sueldos\obj\Debug\Sueldos.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Peguero\source\repos\Sueldos\Sueldos\obj\Debug\Sueldos.exe
+C:\Users\Rafael Peguero\source\repos\Sueldos\Sueldos\obj\Debug\Sueldos.pdb

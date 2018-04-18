@@ -1,0 +1,7 @@
+C:\Users\Rafael Peguero\Desktop\Numero positivos\Numero positivos\bin\Debug\Numero positivos.exe.config
+C:\Users\Rafael Peguero\Desktop\Numero positivos\Numero positivos\bin\Debug\Numero positivos.exe
+C:\Users\Rafael Peguero\Desktop\Numero positivos\Numero positivos\bin\Debug\Numero positivos.pdb
+C:\Users\Rafael Peguero\Desktop\Numero positivos\Numero positivos\obj\Debug\Numero positivos.csproj.CoreCompileInputs.cache
+C:\Users\Rafael Peguero\Desktop\Numero positivos\Numero positivos\obj\Debug\Numero positivos.exe
+C:\Users\Rafael Peguero\Desktop\Numero positivos\Numero positivos\obj\Debug\Numero positivos.pdb
+C:\Users\Rafael Peguero\Desktop\Numero positivos\Numero positivos\obj\Debug\Numero positivos.csprojResolveAssemblyReference.cache
